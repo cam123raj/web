@@ -31,7 +31,7 @@ html,body{
 
 #intro .inner{
         z-index: 10;
-    
+    top: 50%;
     display: table-cell;
     position: fixed;
     vertical-align: middle;
@@ -59,14 +59,13 @@ html,body{
 
 .btnn{
         z-index: 10;
-
     font-size: 135%;
     border-radius: 9px;
     padding: 10px 20px;
     text-transform: uppercase;
     text-decoration: none;
     color: #58cc26;
-    border: solid grey 1.4px;
+    border: solid white 1.4px;
     font-family: 'Oswald';
     
     
